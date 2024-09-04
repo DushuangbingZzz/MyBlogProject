@@ -1,0 +1,88 @@
+{
+    "personalInfo": {
+      "name": "杜双兵",
+      "sex": "男",
+      "title": "前端开发工程师",
+      "email": "17694882635@163.com",
+      "phone": "17694882635",
+      "address": "陕西省西安市高新区丈八北路",
+      "linkedin": "https://www.Duppers.com/in/dushuangbing",
+      "github": "https://gitee.com/duppers/"
+    },
+    "summary": "具有五年经验的前端开发工程师，精通 JavaScript 和现代前端框架（如 Vue 和 React），对用户体验和界面设计充满热情。擅长在高压环境下快速交付高质量的解决方案。",
+    "workExperience": [
+      {
+        "title": "高级前端开发工程师",
+        "company": "某某科技有限公司",
+        "location": "北京市",
+        "start_date": "2022-01",
+        "end_date": "现在",
+        "responsibilities": [
+          "领导前端开发团队，负责大型项目的架构设计和技术选型。",
+          "开发和维护高性能的用户界面和单页应用。",
+          "与产品经理和设计师紧密合作，确保交付符合用户需求的产品。"
+        ]
+      },
+      {
+        "title": "前端开发工程师",
+        "company": "某某互联网公司",
+        "location": "上海市",
+        "start_date": "2019-06",
+        "end_date": "2021-12",
+        "responsibilities": [
+          "负责公司主要产品的前端开发工作。",
+          "优化现有代码，提升系统性能和用户体验。",
+          "参与代码评审和团队知识分享。"
+        ]
+      }
+    ],
+    "education": [
+      {
+        "degree": "本科",
+        "major": "软件工程",
+        "institution": "电子科技大学",
+        "graduation_year": 2020,
+        "startDate":2020.3,
+        "endDate":2022.9
+      },
+      {
+        "degree": "专科",
+        "major": "国际金融",
+        "institution": "天津滨海职业学院",
+        "graduation_year": 2014,
+        "startDate":2014.7,
+        "endDate":2017.9
+      }
+    ],
+    "skills": [
+      "JavaScript",
+      "Vue.js",
+      "React",
+      "HTML/CSS",
+      "Webpack",
+      "Git"
+    ],
+    "certifications": [
+      {
+        "name": "前端开发高级工程师认证",
+        "issued_by": "中国软件评测中心",
+        "date": "2022-03"
+      }
+    ],
+    "projects": [
+      {
+        "title": "在线商城系统",
+        "description": "一个功能全面的在线商城系统，包括用户管理、商品管理、订单处理等功能。",
+        "technologies": ["Vue.js", "Node.js", "MongoDB"],
+        "role": "前端开发工程师",
+        "link": "https://github.com/zhangsan/ecommerce-system"
+      },
+      {
+        "title": "个人博客",
+        "description": "一个个人博客平台，支持文章发布、评论和标签功能。",
+        "technologies": ["React", "Express", "MySQL"],
+        "role": "项目负责人",
+        "link": "https://github.com/zhangsan/personal-blog"
+      }
+    ]
+  }

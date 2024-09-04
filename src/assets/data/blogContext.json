@@ -1,0 +1,32 @@
+{
+    "posts": [
+      {
+        "id": "1",
+        "title": "动态数据的计算",
+        "author": {
+          "name": "duppers",
+          "profilePicture": "/images/authors/zhangsan.png"
+        },
+        "date": "2024-09-01T10:00:00Z",
+        "content": "",
+        "tags": ["Vue.js", "前端开发", "JavaScript"],
+        "categories": ["编程", "技术"],
+        "featuredImage": "/images/posts/vue-app.png",
+        "readTime": "5分钟"
+      },
+      {
+        "id": "2",
+        "title": "理解 JavaScript 的异步编程",
+        "author": {
+          "name": "李四",
+          "profilePicture": "/images/authors/lisi.png"
+        },
+        "date": "2024-09-03T15:30:00Z",
+        "content": "<p>异步编程是现代 JavaScript 开发中一个重要的概念...</p>",
+        "tags": ["JavaScript", "异步编程", "Promise"],
+        "categories": ["编程", "技术"],
+        "featuredImage": "/images/posts/async-programming.png",
+        "readTime": "7分钟"
+      }
+    ]
+  }
