@@ -16,7 +16,7 @@
       },
       {
         "id": "2",
-        "title": "理解 JavaScript 的异步编程",
+        "title": "理解 JavaScript 的异步编程",  
         "author": {
           "name": "李四",
           "profilePicture": "/images/authors/lisi.png"
