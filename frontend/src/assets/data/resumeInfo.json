@@ -1,0 +1,129 @@
+{
+    "personalInfo": {
+      "name": "杜双兵",
+      "sex": "男",
+      "title": "前端开发工程师",
+      "email": "17694882635@163.com",
+      "phone": "17694882635",
+      "address": "陕西省西安市高新区丈八北路",
+      "linkedin": "https://www.Duppers.com/in/dushuangbing",
+      "github": "https://gitee.com/duppers/"
+    },
+    "summary": "具有五年经验的前端开发工程师，精通 JavaScript 和现代前端框架（如 Vue 和 React），对用户体验和界面设计充满热情。擅长在高压环境下快速交付高质量的解决方案。",
+    "workExperience": [
+      {
+        "title": "高级前端开发工程师",
+        "company": "建同智慧科技（西安）有限公司",
+        "location": "西安市",
+        "start_date": "2022-08",
+        "end_date": "2023-至今",
+        "responsibilities": [
+          "负责前端性能优化，通过前端“埋点”采集用户使用体验，有针对性地优化系统性能，提高页面的加载速度和渲染效率",
+          "把控前端项目代码质量，进行代码审查，及时提出修改建议，确保代码的可读性、可维护性和可扩展性",
+          "与产品、UI设计、后端开发人员等紧密协作，准确理解并落实各方需求，保证开发进度和质量",
+          "在团队中分享技术经验和最佳实践，提升团队整体技术水平，为初级开发人员提供技术指导和支持",
+          "跟踪研究前端领域的前沿技术，并应用到实际项目中，不断提升产品的技术水平和用户体验。"
+        ]
+      },
+      {
+        "title": "前端开发工程师",
+        "company": "北京好医生云医院管理技术有限公司",
+        "location": "北京市",
+        "start_date": "2019-06",
+        "end_date": "2022-8",
+        "responsibilities": [
+          "设计和开发公司网站的前端界面，确保良好的用户体验和界面设计。",
+          "参与需求分析和UI设计，根据产品需求进行前端界面的开发和优化",
+          "负责技术开发和维护公司产品的前端界面",
+          "与后端开发人员合作，解决前后端的接口问题",
+          "进行代码的测试和调试，保证产品的稳定性和质量",
+          "参与团队内部的技术交流和知识分享，不断学习新的前端技术"
+        ]
+      },
+      {
+        "title": "前端开发工程师",
+        "company": "北京启迪国信技术有限公司",
+        "location": "北京市",
+        "start_date": "2019-06",
+        "end_date": "2022-8",
+        "responsibilities": [
+          "负责项目从搭建到交付的全过程，按时完成项目交付。",
+          "使用vue和element组件进行开发，实现系统的核心功能。",
+          "保证系统的稳定性和高效性，注意代码质量自我提升。",
+          "积极参加技术培训和学习，不断探索新的前端技术并运用到项目中。",
+          "提升个人技术水平，加深对团队合作和项目管理的理解。"
+        ]
+      }
+    ],
+    "education": [
+      {
+        "degree": "本科",
+        "major": "软件工程",
+        "institution": "电子科技大学",
+        "graduation_year": 2020,
+        "startDate":2020.3,
+        "endDate":2022.9
+      },
+      {
+        "degree": "专科",
+        "major": "国际金融",
+        "institution": "天津滨海职业学院",
+        "graduation_year": 2014,
+        "startDate":2014.7,
+        "endDate":2017.9
+      }
+    ],
+    "skills": [
+      "Vue.js",
+      "React",
+      "JavaScript",
+      "HTML/CSS",
+      "Webpack",
+      "TypeScript",
+      "Antd",
+      "Nginx",
+      "TypeScript", 
+      "uniapp", 
+      "小程序",
+      "MySQL",
+      "Git"
+    ],
+    "certifications": [
+      {
+        "name": "前端开发高级工程师认证",
+        "issued_by": "中国软件评测中心",
+        "date": "2022-03"
+      }
+    ],
+    "projects": [
+      {
+        "title": "彬州化工设施设备全生命周期管理系统",
+        "description": "彬州化工设施设备全生命周期管理系统是为彬州化工设计和开发的一个设备设施生命周期实时监控、资产分类管理和模型查看的监控大屏项目。该项目属于国家内部项目，我个人负责从项目搭建到项目交付的全程工作。使用的核心技术包括vue、elementUI、webpack、javascript、css等。项目使用了国内最流行的前端框架Vue.js 以及UI组件库ElementUI，通过Webpack进行构建和打包，同时借助canvas和echarts等技术完成各种css实现不了的动画和动态展示功能。",
+        "technologies": ["Vue.js", "elementUI", "webpack","canvas","echarts"],
+        "role": "前端开发工程师",
+        "link": "https://github.com/zhangsan/ecommerce-system"
+      },
+      {
+        "title": "个人博客",
+        "description": "远程会诊是一个专门为医师在线问诊和离线预约，帮助患者问诊的问诊平台，为用户搭建的一套管理下属所有医院及问诊所的信息共享和管理的平台项目。其组成：包括pc端的药师端和医师端，小程序的患者端。主要功能：线上查询、线上挂号、手机诊室、药师审核、配药发单、智能导诊。药师端有处方审核，药品配置，诊断建议，发药管理等。医师端包括专家会诊，远程诊疗，专家排班管理，开处方写医嘱等",
+        "technologies": ["React","Antd","Nginx","TypeScript", "uniapp", "小程序","MySQL"],
+        "role": "前端开发高级工程师",
+        "link": "https://github.com/zhangsan/personal-blog"
+      }
+      ,
+      {
+        "title": "智讯项目 Jenkins+Gitee自动化部署",
+        "description": "智讯项目旨在提供一套高效、通用的后台管理系统快速开发方案，帮助企业和开发者加快管理系统的开发和部署。该项目利用先进的自动化技术，提升开发效率和系统稳定性。提供一套标准化的后台管理系统开发框架，缩短从开发到上线的周期，通过自动化测试和监控，确保系统的稳定性和可靠性。",
+        "technologies": ["React","Jenkins ","Nginx","TypeScript", "shell ", "Prometheus","MySQL"],
+        "role": "前端开发高级工程师&运维",
+        "link": "https://github.com/zhangsan/personal-blog"
+      },
+      {
+        "title": "移动校园APP",
+        "description": "移动校园APP 是一个专为北京邮电大学校内学生设计的综合服务平台。它旨在通过现代化的技术手段，提升校园生活的便捷性和舒适度。该平台涵盖了生活服务、教育服务、出行服务等多个方面，以满足学生的日常需求和学业要求。整合校园内各类服务，提供一个集中、统一的管理平台，简化操作流程。",
+        "technologies": ["vue-cli","Antd","Vue","mui", "uniapp", "小程序"],
+        "role": "前端开发工程师",
+        "link": "https://github.com/zhangsan/personal-blog"
+      }
+    ]
+  }
